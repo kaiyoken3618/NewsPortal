@@ -1,3 +1,21 @@
+ 
+  
+ 
+![image](https://user-images.githubusercontent.com/43555641/115808239-f069e780-a40b-11eb-9ab5-39589ca0d56c.png) 
+ 
+ ^ Image of the site hosted.
+
+    
+     
+  
+   
+    
+     
+      
+       
+        
+  
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
